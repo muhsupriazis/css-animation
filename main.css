@@ -43,3 +43,12 @@ h1{
     transform: scale(.5) rotate(180deg);
 
 }
+
+@keyframe pindahkankotak {
+    from {
+        
+    }
+    
+    to {
+    }
+}
